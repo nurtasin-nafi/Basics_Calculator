@@ -1,3 +1,3 @@
 # Basics_Calculator
 Need to update
-<h1 style="color: red;">Testing calculator</h1>
+<h1>Testing <br> calculator</h1>
